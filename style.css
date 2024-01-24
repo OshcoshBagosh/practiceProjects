@@ -1,7 +1,9 @@
+body {
+    background-color: lightblue;
+}
 #wrapper {
     position: fixed;
     align-content: center;
-    justify-content: center;
 }
 #inputData{
     font-family: monospace;
