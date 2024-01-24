@@ -1,0 +1,9 @@
+#wrapper {
+    position: fixed;
+    align-content: center;
+    justify-content: center;
+}
+#inputData{
+    font-family: monospace;
+    font-weight: bold;
+}
